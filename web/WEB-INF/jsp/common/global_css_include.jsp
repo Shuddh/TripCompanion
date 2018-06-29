@@ -1,0 +1,2 @@
+<link href="${pageContext.request.contextPath}/resources/css/bootstrap.min.css?v=1" rel="stylesheet">
+<link href="${pageContext.request.contextPath}/resources/css/bootstrap-datetimepicker.css?v=1" rel="stylesheet" >
