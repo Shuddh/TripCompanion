@@ -1,2 +1,3 @@
-<link href="${pageContext.request.contextPath}/resources/css/bootstrap.min.css?v=1" rel="stylesheet">
-<link href="${pageContext.request.contextPath}/resources/css/bootstrap-datetimepicker.css?v=1" rel="stylesheet" >
+<link href="http://localhost:8080/resources/css/bootstrap.min.css" rel="stylesheet">
+<link href="http://localhost:8080/resources/css/bootstrap-datetimepicker.css" rel="stylesheet" >
+<link href="http://localhost:8080/resources/css/trip-companion.css" rel="stylesheet" >
