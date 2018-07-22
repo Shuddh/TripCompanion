@@ -9,7 +9,7 @@ html {margin:0;padding:0;border:0;}body, div, span, object, iframe, h1, h2, h3, 
 }
 
 .navbar-dark{
-    background-color:	#DB7093;
+    background-color: #DB7093;
 }
 
 .row-content{
@@ -29,12 +29,12 @@ html {margin:0;padding:0;border:0;}body, div, span, object, iframe, h1, h2, h3, 
     padding:80px 20px 80px 20px;
     margin: 0px auto;
     color: floralwhite;
-    /*background-image: url("bg-1.png");*/
+    /*background-image: url("../images/bg-4.png");*/
     min-height:350px;
 }
 
 .myimage {
-    background: transparent url("bg-4.jpg") no-repeat top center fixed;
+    background: transparent url("../images/bg-4.jpg") no-repeat top center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

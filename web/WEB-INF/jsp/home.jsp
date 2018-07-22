@@ -5,8 +5,6 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
-    //<link rel="stylesheet" href="css/styles.css">
     <title>Travel Companion</title>
 
 
@@ -17,7 +15,7 @@
         <div class="collapse navbar-collapse" id="Navbar">
             <ul class="navbar-nav">
                 <li class="nav-item active"><a class="nav-link" href="./home.jsp">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="web/WEB-INF/AboutUs.html">About Us</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">About Us</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Testimonials</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
             </ul>
@@ -35,8 +33,11 @@
                 <div class="d-inline">
                     <input type="text" placeholder="From Airport">
                     <input type="text" placeholder="To Airport">
-                    <input type="text" id="dp1" class="span2 datepicker" placeholder="Date..."
-                           name="date">
+                    <div>
+                        <span class=""></span>
+                        <input type="text" id="dp1" class="form-control date-picker" placeholder="Date..."
+                               name="date">
+                    </div>
                     <button type="button" class="btn-info">Search</button>
                 </div>
             </div>
