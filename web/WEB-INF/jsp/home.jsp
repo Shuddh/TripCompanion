@@ -3,12 +3,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-
-    <!-- Bootstrap CSS -->
     <title>Travel Companion</title>
-
-
 </head>
+
+
 <body class="myimage">
     <nav class="navbar navbar-dark navbar-expand-sm fixed-top">
         <a class="navbar-brand" href="./home.jsp">Travel Companion</a>
@@ -17,7 +15,7 @@
                 <li class="nav-item active"><a class="nav-link" href="./home.jsp">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">About Us</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Testimonials</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+                <li class="nav-item"><a class="nav-link" href="./ContactUs.jsp">Contact</a></li>
             </ul>
         </div>
     </nav>
