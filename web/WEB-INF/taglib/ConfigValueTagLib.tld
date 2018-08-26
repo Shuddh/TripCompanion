@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jspversion>1.1</jspversion>
+    <short-name>config</short-name>
+    <info>Tag Library for Configuration Values</info>
+    <tag>
+        <name>config</name>
+        <tag-class>com.travelCompanion.taglib.ConfigValueTagLib</tag-class>
+
+    </tag>
+</taglib>
