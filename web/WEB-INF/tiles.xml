@@ -16,11 +16,14 @@
         <put-attribute name="body" value="" />
         <put-attribute name="footer" value="/WEB-INF/jsp/common/footer.jsp" />
     </definition>
+    <definition name="blank" template="/WEB-INF/jsp/common/blank.jsp"/>
+
 
     <definition name="homeView" extends="base.definition">
         <put-attribute name="title" value="Travel"/>
         <put-attribute name="body" value="/WEB-INF/jsp/home.jsp" />
     </definition>
+
     <definition name="errorPageView" extends="base.definition">
         <put-attribute name="title" value="Generic Error" />
         <put-attribute name="body" value="/WEB-INF/jsp/common/error.jsp" />
